@@ -1,20 +1,19 @@
 gbc-boxmodel
 ============
 
-Amos et al. (2014) box model for global Hg cycling
+Amos et al. (2013; 2014) box model for global Hg cycling
 
-Last updated: 18 September 2014
+Last updated: 04 September 2017
 
 Questions or comments? Contact:
-  Helen M. Amos
+  Elsie Sunderland or Colin Thackray
   Harvard University
-  School of Public Health, Department of Environmental Health
-  Phone: +1 (617)496-5348
-  Email: hamos@hsph.harvard.edu
-  Web: http://people.fas.harvard.edu/~amos/Welcome.html
+  
+  Email: ems@seas.harvard.edu or thackray@seas.harvard.edu
+  Web: http://bgc.seas.harvard.edu
 
 ## Citation for code
- 1. Amos, H. M., et al. (2013), Legacy impacts of all-time anthropogenic emissions on the global mercury cycle, Glob. Biogeochem. Cycle, 27(2), 410-421.
+ 1. Amos, H. M., D.J. Jacob, D.G. Streets, E.M. Sunderland (2013), Legacy impacts of all-time anthropogenic emissions on the global mercury cycle, Glob. Biogeochem. Cycle, 27(2), 410-421.
  1. Amos, H. M., et al. (2014), Global biogeochemical implications of mercury discharges from rivers and sediment burial, Environ. Sci.Technol., 48(16), 9514-9522.
 
 ## Credit
@@ -24,10 +23,10 @@ Questions or comments? Contact:
 
 ### Submitting bugs or science updates
 
-If you find a bug, please report it to me (hamos@hsph.harvard.edu)
+If you find a bug, please report it to us (thackray@seas.harvard.edu)
 with the subject "Hg box model: bug report". We'll fix it, document
 it, and post corrected code online.  If you'd like to submit a science
-update, please contact me (hamos@hsph.harvard.edu) with the subject
+update, please contact me (thackray@seas.harvard.edu) with the subject
 "Hg box model: science update". In the email, provide a quick
 description of the update and a copy of the journal article associated
 with the update. We will merge the update into the standard version of
@@ -46,7 +45,7 @@ does not run on your version of MATLAB, please let us know.
 ## Code version
 
 This release is code version 2.0 and corresponds the updated box model
-published in Amos et al.  (2014, ES&T).
+published in Amos et al. (2014, ES&T).
 
 
 ## Running the code
